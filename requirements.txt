@@ -1,0 +1,16 @@
+streamlit
+streamlit-option-menu
+plotly
+statsmodels
+pandas
+numpy
+scikit-learn
+sqlalchemy
+joblib
+matplotlib
+seaborn
+
+# Entraînement (optionnel)
+# Décommentez si vous souhaitez tester tous les modèles pendant l'entraînement
+# xgboost
+# lightgbm
