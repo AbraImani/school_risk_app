@@ -1,4 +1,4 @@
-# Élite Vigilance – Prévention du Décrochage Scolaire
+# Élite Vigilance – Prévention du décrochage scolaire
 
 Application Streamlit pour prédire le risque de décrochage scolaire, stocker les prédictions dans une base SQLite et visualiser des statistiques.
 
